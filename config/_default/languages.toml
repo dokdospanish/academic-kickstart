@@ -25,6 +25,7 @@
   title = "Dokdo Spanish"
   [es.params]
     description = "Site description in Spanish..."
+    logo = "logo.jpg"
 #  [[es.menu.main]]
 #    name = "Wow"
 #    url = "#about"
