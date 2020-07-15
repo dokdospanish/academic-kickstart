@@ -25,7 +25,7 @@
   title = "Spanish website title..."
   [es.params]
     description = "Site description in Spanish..."
-  [[es.menu.main]]
-    name = "Wow"
-    url = "#about"
-    weight = 1
+#  [[es.menu.main]]
+#    name = "Wow"
+#    url = "#about"
+#    weight = 1
