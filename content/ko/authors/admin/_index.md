@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: AI 교수님
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 스탠포드 대학교
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,6 +70,5 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+리처드와 길포일, 디네쉬의 친구로, 셋에 비해 떨어지는 프로그래밍 실력과 별 도움이 안 된다는 의견으로 인해 피리부는 사나이에서 쫓겨날 위기에 처하지만, 개빈 벨슨이 뉴클리어스 개발과 피리부는 사나이를 저지하고자 좋은 조건으로 그를 영입하면서 집을 떠나게 된다. 그래도 옛정이 있는지 훌리가 리처드에 대항하여 뉴클리어스를 개발중이란 사실을 알려주기도 하는 듯.
+애초에 훌리에 영입된것도 리처드의 알고리즘에 대항하기 위해서 였는데, 위에 언급처럼 애초에 빅헤드는 피리부는 사나이를 만드는 데 거의 도움이 안되는 실력이었다. 결국 훌리에서도 눈밖에 나고, 그냥 계약된 근무기간이나 채우면서 놀다가 스톡옵션을 받고 퇴사하는 아싸집단에 합류하게 된다. 그러나 어이없게도 개빈이 자신들에게 피리부는 사나이 소유권이 있다는 소송의 타당성을 증명하기 위해 강제 폭풍 승진을 당하여 고액의 연봉자가 되고, 훌리의 차세대 프로젝트의 리더가 되고 와이어드 표지에 실리는 등 말 그대로 만들어진 스타가 된다.
