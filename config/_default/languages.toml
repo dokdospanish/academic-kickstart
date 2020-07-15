@@ -11,13 +11,13 @@
 [ko]
   languageCode = "ko"
   contentDir = "content/ko"
-  title = "Korean website title..."
-  [ko.params]
-    description = "Site description in Korean..."
-  [[ko.menu.main]]
-    name = "Wo"
-    url = "#about"
-    weight = 1
+  title = "독도 스페인어"
+#  [ko.params]
+#    description = "Site description in Korean..."
+#  [[ko.menu.main]]
+#    name = "Wo"
+#    url = "#about"
+#    weight = 1
 
 [es]
   languageCode = "es"
