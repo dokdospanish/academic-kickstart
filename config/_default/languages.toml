@@ -14,7 +14,7 @@
   title = "Korean website title..."
   [ko.params]
     description = "Site description in Korean..."
-  [[koh.menu.main]]
+  [[ko.menu.main]]
     name = "Wo"
     url = "#about"
     weight = 1
