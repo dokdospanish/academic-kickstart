@@ -18,3 +18,14 @@
     name = "Wo"
     url = "#about"
     weight = 1
+
+[es]
+  languageCode = "es-mx"
+  contentDir = "content/es"
+  title = "Spanish website title..."
+  [es.params]
+    description = "Site description in Spanish..."
+  [[es.menu.main]]
+    name = "Wow"
+    url = "#about"
+    weight = 1
