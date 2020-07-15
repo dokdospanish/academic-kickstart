@@ -22,10 +22,10 @@
 [es]
   languageCode = "es"
   contentDir = "content/es"
-  title = "Dokdo Spanish"
+  title = "Dokdo Español"
   [es.params]
     description = "Site description in Spanish..."
-    logo = "logo.jpg"
+    logo = "logo.png"
 #  [[es.menu.main]]
 #    name = "Wow"
 #    url = "#about"
